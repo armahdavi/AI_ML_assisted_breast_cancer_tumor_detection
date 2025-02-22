@@ -5,4 +5,5 @@ Breast cancer tumor detection is one of the earliest and most impactful applicat
 Over the past few years, I have had the opportunity to tutor several friends who were new to ML, guiding them through its fundamental principles. Each time, I used breast cancer tumor detection as a practical example to explain essential ML concepts such as regression, classification, feature sets and space, target variables, cost functions, gradient descent, training and testing processes, and evaluation metrics, including accuracy, precision, recall (sensitivity), and receiver operating characteristic (ROC) curve analysis with area under the curve (AUC) scores.
 
 In this repository, I decided to consolidate all the tutorial codes I developed while teaching these concepts.
+
 I hope you find it useful!
